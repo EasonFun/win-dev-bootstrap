@@ -1,0 +1,13 @@
+﻿# downloaded / extracted toolchains
+tools/
+*.7z
+*.7z.exe
+*.zip
+*.msi
+
+# logs
+*.log
+
+# editor
+.vscode/
+.idea/
